@@ -1,8 +1,7 @@
 # Deep Learning & Computer Vision Projects
 
-A collection of independent deep learning projects covering CNNs, object detection & segmentation, self-supervised visual representations, NLP with transformers, and metric learning.
+A collection of deep learning projects covering CNNs, object detection & segmentation, self-supervised visual representations, NLP with transformers, and metric learning.
 
-**Course:** IIC3697 – Deep Learning · Pontificia Universidad Católica de Chile  
 **Stack:** Python · PyTorch · torchvision · HuggingFace Transformers · Ultralytics YOLOv8 · DINOv2 · scikit-learn · NumPy · Matplotlib
 
 ---
